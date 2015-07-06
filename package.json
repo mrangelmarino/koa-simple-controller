@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/mrangelmarino/koa-simple-controller/issues"
   },
-  "homepage": "https://github.com/mrangelmarino/koa-simple-controller"
+  "homepage": "https://github.com/mrangelmarino/koa-simple-controller",
+  "dependencies": {
+    "async": "^1.3.0"
+  }
 }

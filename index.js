@@ -1,6 +1,6 @@
 var fs = require('fs');
-var async = require('async');
 var path = require('path');
+var async = require('async');
 
 // Create new Controller object and specify fallback directory
 function Controller (directory){
