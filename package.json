@@ -1,0 +1,27 @@
+{
+  "name": "koa-simple-controller",
+  "version": "1.0.0",
+  "description": "Create simple controllers for use with the Koa.js framework on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mrangelmarino/koa-simple-controller.git"
+  },
+  "keywords": [
+    "koa",
+    "node",
+    "controller",
+    "router",
+    "koa-router",
+    "koa-controller"
+  ],
+  "author": "Angel Marino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrangelmarino/koa-simple-controller/issues"
+  },
+  "homepage": "https://github.com/mrangelmarino/koa-simple-controller"
+}
